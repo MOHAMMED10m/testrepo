@@ -1,3 +1,8 @@
-fnew
+# تجاهل ملف index.html
 index.html
-assets
+
+# تجاهل مجلد fnew
+fnew/
+
+# تجاهل مجلد assets
+assets/
